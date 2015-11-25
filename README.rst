@@ -7,6 +7,8 @@ ASQ Simulates Queues
 
 |
 .. image:: https://github.com/geraintpalmer/ASQ/blob/master/docs/_static/logo.png
+    :scale: 50 %
+    :align: center
 
 ASQ (ASQ Simulates Queues) is a simulation framework for open queueing networks.
 
